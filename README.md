@@ -4,8 +4,8 @@ The project parses every court name and court address from [here](http://sudact.
 
 ## Prerequisites
 
-* Python 3.*
-* Scrapy
+* [Python 3](https://www.python.org/)
+* [Scrapy](https://scrapy.org/)
 
 ### How to run
 
